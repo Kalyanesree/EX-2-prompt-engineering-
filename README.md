@@ -1,6 +1,6 @@
-# EX-2-prompt-engineering-Comparative Analysis of different types of Prompting patterns and explain with Various Test scenerios
+# EX-5-prompt-engineering-Comparative Analysis of different types of Prompting patterns and explain with Various Test scenerios
 
-**2.  Comprehensive Report: Comparative Analysis of Prompting Patterns in Generative AI Models**
+**5.  Comprehensive Report: Comparative Analysis of Prompting Patterns in Generative AI Models**
 
 **Introduction**
 
